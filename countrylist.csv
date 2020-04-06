@@ -1,0 +1,81 @@
+ISO,NAME_0,CONTINENT,COUNTRYCODE
+AFG,Afghanistan,Asia,AF
+AGO,Angola,Africa,AO
+BGD,Bangladesh,Asia,BD
+BEN,Benin,Africa,BJ
+BTN,Bhutan,Asia,
+BOL,Bolivia,South America,BO
+BWA,Botswana,Africa,
+BRA,Brazil,South America,BR
+BFA,Burkina Faso,Africa,BF
+BDI,Burundi,Africa,BU
+KHM,Cambodia,Asia,KH
+CMR,Cameroon,Africa,CM
+CAF,Central African Republic,Africa,CF
+TCD,Chad,Africa,TD
+CHN,China,Asia,
+COL,Colombia,South America,CO
+COM,Comoros,Africa,KM
+COG,Congo (Brazzaville),Africa,CG
+COD,"Congo, Democratic Republic of the",Africa,CD
+CIV,Cote d'Ivoire,Africa,CI
+DJI,Djibouti,Africa,
+DOM,Dominican Republic,North America,DR
+ECU,Ecuador,South America,EC
+GNQ,Equatorial Guinea,Africa,EK
+ERI,Eritrea,Africa,ER
+ETH,Ethiopia,Africa,ET
+GUF,French Guiana,South America,
+GAB,Gabon,Africa,GA
+GMB,Gambia,Africa,GM
+GHA,Ghana,Africa,GH
+GTM,Guatemala,North America,GU
+GIN,Guinea,Africa,GN
+GNB,Guinea-Bissau,Africa,
+GUY,Guyana,South America,GY
+HTI,Haiti,North America,HT
+HND,Honduras,North America,HN
+IND,India,Asia,IA
+IDN,Indonesia,Asia,ID
+IRN,"Iran, Islamic Republic of",Asia,
+KEN,Kenya,Africa,KE
+LAO,Lao PDR,Asia,LA
+LBR,Liberia,Africa,LB
+MDG,Madagascar,Africa,MD
+MWI,Malawi,Africa,MW
+MYS,Malaysia,Asia,
+MLI,Mali,Africa,ML
+MRT,Mauritania,Africa,MR
+MOZ,Mozambique,Africa,MZ
+MMR,Myanmar,Asia,MM
+NAM,Namibia,Africa,MN
+NPL,Nepal,Asia,NM
+NIC,Nicaragua,North America,NC
+NER,Niger,Africa,NI
+NGA,Nigeria,Africa,NG
+PAK,Pakistan,Asia,PK
+PAN,Panama,North America,
+PNG,Papua New Guinea,Oceania,
+PER,Peru,South America,PE
+PHL,Philippines,Asia,PH
+RWA,Rwanda,Africa,RW
+SAU,Saudi Arabia,Asia,
+SEN,Senegal,Africa,SN
+SLE,Sierra Leone,Africa,SL
+SLB,Solomon Islands,Oceania,
+SOM,Somalia,Africa,
+ZAF,South Africa,Africa,ZA
+SSD,South Sudan,Africa,
+SDN,Sudan,Africa,SD
+SUR,Suriname,South America,
+TZA,"Tanzania, United Republic of",Africa,TZ
+THA,Thailand,Asia,TH
+TLS,Timor-Leste,Asia,TL
+TGO,Togo,Africa,TG
+UGA,Uganda,Africa,UG
+VUT,Vanuatu,Oceania,
+VEN,Venezuela (Bolivarian Republic of),South America,
+VNM,Viet Nam,Asia,VN
+YEM,Yemen,Asia,YE
+ZMB,Zambia,Africa,ZM
+ZWE,Zimbabwe,Africa,ZW
